@@ -1,7 +1,8 @@
-# Vector-Based Order Embedding
+# VOE: Vector-Based Order Embedding
 
-The order relationship learning using Order Embeddings based on the research work, [Order-Embeddings of Images and Language](https://arxiv.org/abs/1511.06361) is a potential baseline to learn pre requiste relationship.
-Please refer to the original [codebase](https://github.com/ivendrov/order-embeddings-wordnet) for more details regarding the paper.
+The pytorch implementation of the research work "[Order-Embeddings of Images and Language](https://arxiv.org/abs/1511.06361)".
+The order relationship learning using Order Embeddings is a must baseline for pre-requiste relationship learning.
+Please refer to the original [codebase](https://github.com/ivendrov/order-embeddings-wordnet) in Lua for more details.
 
 
 ## Dependencies
