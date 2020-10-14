@@ -35,3 +35,4 @@ Please consider cite our paper if you find the paper and the code useful.
   year={2019}
 }
 ```
+Feel free to send email to ankechiang@gmail.com if you have any questions. This code is modified from [ANR](https://github.com/almightyGOSU/ANR).
