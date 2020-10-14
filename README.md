@@ -1,7 +1,7 @@
 # VOE: Vector-Based Order Embedding
 
 Our pytorch implementation of the research work "[Order-Embeddings of Images and Language](https://arxiv.org/abs/1511.06361)".
-The order relationship learning using Order Embeddings is a must baseline for pre-requiste relationship learning.
+Order embedding or order representation learning (VOE) is a must for applicaitons like pre-requiste relationship learning.
 Please refer to the original [codebase](https://github.com/ivendrov/order-embeddings-wordnet) in Lua for more details.
 
 
